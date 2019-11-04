@@ -2,3 +2,11 @@ results/
 venv/
 .vscode/
 __pycache__/
+
+### RED IDE ###
+.project
+log.html
+output.xml
+red.xml
+report.html
+libspecs/
